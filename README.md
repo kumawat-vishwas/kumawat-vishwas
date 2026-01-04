@@ -5,6 +5,8 @@
 I am a **graduate from IIT Madras** with a **BS in Data Science and Applications**, with strong hands-on experience in **backend systems and AI/ML**.  
 I enjoy building **scalable systems**, **production-grade ML pipelines**, and **AI-powered applications**.
 
+📄 Resume:[View](https://drive.google.com/file/d/11lyYYLu0CRgUpsX75NBGvraVzWEQSGcH/view?usp=sharing)
+
 ---
 
 ## 🔍 About Me
